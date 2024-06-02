@@ -1,0 +1,47 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+}
+
+#topnavbar{
+    height:60px;
+    width:100%;
+    background-color:  #F0F0F0;;
+}
+
+.topnavbar{
+    display:flex;
+    justify-content:space-between;
+    align-items: center;
+    padding-left:65px;
+    padding-right:65px;
+}
+
+
+
+
+.LOGO{
+    font-size:40px;
+    font-family: 'Brush Script MT', cursive;
+     color: #333333;
+    
+    
+}
+
+.contract{
+    font-size: 20px;
+    font-family: 'Brush Script MT', cursive;
+    color: #333333;
+}
+
+.e{
+    font-size: 20px;
+    font-family: 'Brush Script MT', cursive;
+    color: #333333;
+}
+
+
+
+
+
